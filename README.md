@@ -1,7 +1,7 @@
 # LiveCalculator - Setup Instructions for overlay
 
-Go --> Documents\iRacing\app.ini
-[Graphics DX11]
+Go --> Documents\iRacing\app.ini  
+[Graphics DX11]  
 fullScreen=0                   ;0=windowed mode, 1=full screen mode (other variables are not used in full screen mode)  
 border=0                       ;0=no borders or header, 1=header visible.  
 windowedMaximized=1            ;if borders are off, this is the only way to get to maximize.  
